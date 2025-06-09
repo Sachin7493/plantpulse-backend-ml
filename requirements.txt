@@ -4,3 +4,6 @@ pillow
 tensorflow_hub
 opencv-python
 scikit-image
+uvicorn
+fastapi
+python-multipart
