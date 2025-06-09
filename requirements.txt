@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pillow
+tensorflow_hub
+opencv-python
+scikit-image
